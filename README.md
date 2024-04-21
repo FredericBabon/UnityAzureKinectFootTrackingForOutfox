@@ -1,4 +1,7 @@
 # Azure Kinect Foot Tracking Unity Application (for rhythm games like Outfox, Stepmania, DDR,...)
+
+[![YouTube video Preview](https://img.youtube.com/vi/EPsbX_deRPk/0.jpg)](https://www.youtube.com/watch?v=EPsbX_deRPk)
+
 This project is based on the Microsoft Sample Unity Body Tracking Application
 for info this sample is available here : https://github.com/microsoft/Azure-Kinect-Samples/tree/master/body-tracking-samples/sample_unity_bodytracking
 
